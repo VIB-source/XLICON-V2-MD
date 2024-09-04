@@ -10,7 +10,7 @@ import cfonts from 'cfonts';
 
 const { say } = cfonts;
 
-say("XLICON - V2", {
+say("DoOmSss-BoT", {
   'font': "block",
   'align': "center",
   'colors': ['#ff9900'],
@@ -21,7 +21,7 @@ say("XLICON - V2", {
   'maxLength': '15'
 });
 
-say("Xlicon-BOT-V2 By Salman._.", {
+say("DoOmSss-BOT By DoOmSss._.", {
   'font': "chrome",
   'align': "center",
   'colors': ["red", "magenta"],
